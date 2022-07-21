@@ -1,0 +1,80 @@
+{ 
+  "menu": [
+    {
+      "name": "Logo",
+      "img":""
+    },
+    {
+      "name": "home",
+      "img": ""
+    },
+    {
+      "name": "About Me",
+      "img": ""
+    },
+    {
+      "name": "Last Collection",
+      "img": ""
+    },
+    {
+      "name": "Some Collection",
+      "img": ""
+    },
+    {
+      "name": "Mail Me",
+      "img": ""
+    }
+  ],
+  "lastCollection":[{
+    "img01":{
+      "img":"",
+      "src":""
+    },
+    "img02":{
+      "img":"",
+      "src":""
+    },
+    "img03":{
+      "img":"",
+      "src":""
+    },
+    "img04":{
+      "img":"",
+      "src":""
+    },
+    "img05":{
+      "img":"",
+      "src":""
+    },
+    "img06":{
+      "img":"",
+      "src":""
+    }
+  }],
+  "someCollection":[{
+    "img01":{
+      "img":"",
+      "src":""
+    },
+    "img02":{
+      "img":"",
+      "src":""
+    },
+    "img03":{
+      "img":"",
+      "src":""
+    },
+    "img04":{
+      "img":"",
+      "src":""
+    },
+    "img05":{
+      "img":"",
+      "src":""
+    },
+    "img06":{
+      "img":"",
+      "src":""
+    }
+  }]
+  }

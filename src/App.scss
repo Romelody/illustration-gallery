@@ -1,0 +1,19 @@
+.App {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+  }
+  
+body{
+    display: flex;
+    flex-direction: column;
+  }
+  
+.body-bottom {
+    display: flex;
+    flex-direction: row;
+    .SocialMedia {
+        display: flex;
+        flex-direction: row;
+    }
+}
